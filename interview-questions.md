@@ -35,7 +35,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer: A syntax extension to javascript. I would say the notable diffrence its that if JSX was html it would be called 
 
-  Researched answer: A syntax extension to javascript. It stands for java scrips XML. It allows you to write HTML, in react in java script and place them in the DOM then converts HTML tags into react elements.
+  Researched answer: A syntax extension to javascript. It stands for javascript XML. It allows you to write HTML, in react in javascript and place them in the DOM then converts HTML tags into react elements.
 
 
 
